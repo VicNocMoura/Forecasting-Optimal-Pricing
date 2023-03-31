@@ -92,7 +92,6 @@ target/
 spelling_correction.txt
 logs/
 logs/logs_old/
-*.csv
 *.txt
 *.pkl
 *.p
