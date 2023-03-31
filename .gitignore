@@ -95,4 +95,5 @@ logs/logs_old/
 *.csv
 *.txt
 *.pkl
+*.p
 trash/
